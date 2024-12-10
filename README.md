@@ -6,6 +6,8 @@ go to releases for download
 
 this only works on windows
 
+your files WILL end up in the bin folder btw :3
+
 to run yourself, open "youtube downloader.bat"
 
 # build yourself
