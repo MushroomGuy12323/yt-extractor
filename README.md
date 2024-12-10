@@ -1,6 +1,7 @@
 ## yt extractor
 yt extractor does as the name implies, extracts youtube videos
 can also be used for bandcamp, soundcloud, etc.
+
 go to releases for download
 
 this only works on windows
