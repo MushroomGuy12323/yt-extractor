@@ -5,6 +5,8 @@ go to releases for download
 
 this only works on windows
 
+to run yourself, open "youtube downloader.bat"
+
 # build yourself
 building this is like you have all the pieces for a lego set except
 you accidentally threw away one of the massive pieces and have to order it yourself
