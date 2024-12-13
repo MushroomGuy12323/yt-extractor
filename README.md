@@ -1,6 +1,6 @@
 ## yt extractor
 yt extractor does as the name implies, extracts youtube videos
-can also be used for bandcamp, soundcloud, etc.
+can also be used for bandcamp, soundcloud, etc. works with playlists
 
 go to releases for download
 
